@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="PlayerShip.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="SpaceObject.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletManager.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Asteroid.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="AsteroidManager.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UFOManager.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UFO.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{e1db51ad-7d03-4dcb-b26e-a798760beae2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{828a131e-7545-43b1-a225-18d6c05b1df7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PlayerShip.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SpaceObject.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Asteroid.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="AsteroidManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="UFOManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="UFO.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
